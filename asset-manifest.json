@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buyco-project/static/css/main.b34371e1.chunk.css",
+    "main.js": "/buyco-project/static/js/main.958f2880.chunk.js",
+    "main.js.map": "/buyco-project/static/js/main.958f2880.chunk.js.map",
+    "runtime-main.js": "/buyco-project/static/js/runtime-main.f4d3bcbb.js",
+    "runtime-main.js.map": "/buyco-project/static/js/runtime-main.f4d3bcbb.js.map",
+    "static/js/2.d1c8354e.chunk.js": "/buyco-project/static/js/2.d1c8354e.chunk.js",
+    "static/js/2.d1c8354e.chunk.js.map": "/buyco-project/static/js/2.d1c8354e.chunk.js.map",
+    "index.html": "/buyco-project/index.html",
+    "static/css/main.b34371e1.chunk.css.map": "/buyco-project/static/css/main.b34371e1.chunk.css.map",
+    "static/js/2.d1c8354e.chunk.js.LICENSE.txt": "/buyco-project/static/js/2.d1c8354e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d3bcbb.js",
+    "static/js/2.d1c8354e.chunk.js",
+    "static/css/main.b34371e1.chunk.css",
+    "static/js/main.958f2880.chunk.js"
+  ]
+}
